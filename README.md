@@ -4,7 +4,7 @@
 
 Nano-chan is a IRC bot for #nethaus on irc.freenode.net
 
-She is based off of the character Nano Shinonome from the anime Nichijou.
+She is based off of the character [Nano Shinonome] from the anime [Nichijou].
 
 From [Nichijou Wikia]:
 
@@ -18,7 +18,7 @@ From [Nichijou Wikia]:
 
 >Hakase gave Nano many hidden abbilities, but Nano herself usually learns about them the first time she uses them. One of Nano's special abilities is to dispense pastries. Nano's limbs also come off at random, at her great surprise every single time that she comes apart. Nano is usually unappreciative of and embarrassed by her mostly useless gifts.
 
-From [Nichijou Wikia], These include:
+These include:
 
 - A rollcake dispenser in her left arm (after some time, it became a fish cake dispenser).
 
@@ -35,5 +35,5 @@ From [Nichijou Wikia], These include:
 - Her right hand is rocket-propelled, but it usually flies off at random. It can fly for a very long time, and can travel very long distances: this was best shown when the fist was accidentally launched and flew around the town for a rather long time, only stopping after it hit Misato Tachibana on the head.
 
 [Nano Shinonome]:http://nichijou.wikia.com/wiki/Nano_Shinonome
-[Nichijou]:http://nichijou.wikia.com/wiki/Nano_Shinonome
+[Nichijou]:https://www.youtube.com/watch?v=HQ7bC9XycU0
 [Nichijou Wikia]:http://nichijou.wikia.com/wiki/Nano_Shinonome
