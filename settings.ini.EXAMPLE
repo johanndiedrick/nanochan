@@ -1,0 +1,5 @@
+[irc]
+endpoint = ~put your host:port here~ ex. ssl:host=irc.freenode.net:port=7000
+nickName = ~put your nick here~
+realName = ~put your real name/description here~
+channel = ~put your chan here~

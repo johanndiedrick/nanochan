@@ -1,0 +1,3 @@
+coverage
+pyopenssl==0.13
+twisted

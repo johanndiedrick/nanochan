@@ -34,6 +34,31 @@ These include:
 
 - Her right hand is rocket-propelled, but it usually flies off at random. It can fly for a very long time, and can travel very long distances: this was best shown when the fist was accidentally launched and flew around the town for a rather long time, only stopping after it hit Misato Tachibana on the head.
 
+# Installation
+
+- Create and activate your virtualenv
+
+```sh
+virtualenv venv
+source venv/bin/activate
+```
+
+- Install our requirements via pip
+
+```sh
+pip install -r requirements.txt
+```
+
+- Make a copy of the settings.ini.EXAMPLE file and fill it in with your host, port, nick, real name info and channel to join.
+
+```sh
+cp settings.ini.EXAMPLE settings.ini
+```
+
+**Nano-chan was started by painstakingly hand-copying the lovely bot/networking tutorial created by [New Coder]. The tutorial can be found [here].**
+
 [Nano Shinonome]:http://nichijou.wikia.com/wiki/Nano_Shinonome
 [Nichijou]:https://www.youtube.com/watch?v=HQ7bC9XycU0
 [Nichijou Wikia]:http://nichijou.wikia.com/wiki/Nano_Shinonome
+[New Coder]:http://newcoder.io/
+[here]:http://newcoder.io/~drafts/networks/
