@@ -55,6 +55,22 @@ pip install -r requirements.txt
 cp settings.ini.EXAMPLE settings.ini
 ```
 
+# Running tests
+
+To run all tests, cd into the nanochan folder and run this command:
+
+```sh
+trial tests
+```
+
+# Running 
+
+After setting up your settings.ini file, run the following commands in the nanochan directory.
+
+```
+twistd -n shinolabs
+```
+ 
 **Nano-chan was started by painstakingly hand-copying the lovely bot/networking tutorial created by [New Coder]. The tutorial can be found [here].**
 
 [Nano Shinonome]:http://nichijou.wikia.com/wiki/Nano_Shinonome
