@@ -3,3 +3,10 @@ endpoint = ~put your host:port here~ ex. ssl:host=irc.freenode.net:port=7000
 nickName = ~put your nick here~
 realName = ~put your real name/description here~
 channel = ~put your chan here~
+
+[talkback]
+quotesFilename = quotes.txt
+
+#trigger phrases, in lowercase
+triggers = 
+	~add a trigger here~ ex. quote
