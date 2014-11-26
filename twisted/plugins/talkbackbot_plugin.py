@@ -45,7 +45,7 @@ class TalkBackBotService(Service):
 		factory = TalkBackBotFactory(
 			self._channel,
 			self._nickname,
-			self._realame,
+			self._realname,
 			quotes,
 			self._triggers
 		)

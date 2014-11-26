@@ -1,0 +1,6 @@
+/venv
+settings.ini
+*.pyc
+/tests/_trial_tests
+/_trial_tests
+*.cache

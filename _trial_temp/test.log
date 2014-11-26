@@ -1,0 +1,24 @@
+2014-11-26 14:03:18-0500 [-] Log opened.
+2014-11-26 14:03:18-0500 [-] --> tests.test_quote_picker.TestQuotePicker.test_pick <--
+2014-11-26 14:03:18-0500 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgAttribution <--
+2014-11-26 14:03:18-0500 [-] connection was made!
+2014-11-26 14:03:18-0500 [-] we have signed on, yay!
+2014-11-26 14:03:18-0500 [-] [tbb has joined #testchannel]
+2014-11-26 14:03:18-0500 [-] sent message to #testchannel, triggered by tester:
+		There's nothing unusual about me. I'm normal.
+2014-11-26 14:03:18-0500 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgNoTrigger <--
+2014-11-26 14:03:18-0500 [-] connection was made!
+2014-11-26 14:03:18-0500 [-] we have signed on, yay!
+2014-11-26 14:03:18-0500 [-] [tbb has joined #testchannel]
+2014-11-26 14:03:18-0500 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgPrivateMessage <--
+2014-11-26 14:03:18-0500 [-] connection was made!
+2014-11-26 14:03:18-0500 [-] we have signed on, yay!
+2014-11-26 14:03:18-0500 [-] [tbb has joined #testchannel]
+2014-11-26 14:03:18-0500 [-] sent message to tester, triggered by tester:
+		There's nothing unusual about me. I'm normal.
+2014-11-26 14:03:18-0500 [-] --> tests.test_talkbackbot.TestTalkBackBot.test_privmsgWithTrigger <--
+2014-11-26 14:03:18-0500 [-] connection was made!
+2014-11-26 14:03:18-0500 [-] we have signed on, yay!
+2014-11-26 14:03:18-0500 [-] [tbb has joined #testchannel]
+2014-11-26 14:03:18-0500 [-] sent message to #testchannel, triggered by tester:
+		There's nothing unusual about me. I'm normal.

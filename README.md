@@ -90,6 +90,8 @@ Coming soon
 
 Nano-chan was started by painstakingly hand-copying the lovely bot/networking tutorial created by [New Coder]. The tutorial can be found [here].
 
+# Enjoy!!! ^_~
+
 ![Nano Shinonome](http://33.media.tumblr.com/c7d1cd5862cc5dfc92d6db26587e2f36/tumblr_mgt4cqGg2i1rmhrczo1_500.gif)
 
 [Nano Shinonome]:http://nichijou.wikia.com/wiki/Nano_Shinonome
