@@ -12,6 +12,8 @@ From [Nichijou Wikia]:
 
 # Features
 
+![Nano Shinonome](http://33.media.tumblr.com/fe89fa940297d031d313fca0dbd96005/tumblr_mzkto4p9gT1sn2bkjo1_500.gif)
+
 The feature set is based on Nano's abilities on the show. 
 
 From [Nichijou Wikia]:
@@ -36,6 +38,8 @@ These include:
 
 # Installation
 
+![Nano Shinonome](http://38.media.tumblr.com/555b48f4a51aa0c8f3ad7bfdbb36b3b4/tumblr_n3c1alZpn31rlulmlo2_500.gif)
+
 - Create and activate your virtualenv
 
 ```sh
@@ -55,7 +59,9 @@ pip install -r requirements.txt
 cp settings.ini.EXAMPLE settings.ini
 ```
 
-# Running tests
+# Tests
+
+![Nano Shinonome](http://38.media.tumblr.com/fb5bb933074ca60165d372a6b1598191/tumblr_mlifbzdUZi1s5mgubo1_500.gif)
 
 To run all tests, cd into the nanochan folder and run this command:
 
@@ -65,13 +71,26 @@ trial tests
 
 # Running 
 
+![Nano Shinonome](http://33.media.tumblr.com/b9b8986cadd10c5e461aa5ab75e07058/tumblr_mxu39u4i0J1ss987ao1_500.gif)
+
 After setting up your settings.ini file, run the following commands in the nanochan directory.
 
 ```
 twistd -n shinolabs
 ```
- 
-**Nano-chan was started by painstakingly hand-copying the lovely bot/networking tutorial created by [New Coder]. The tutorial can be found [here].**
+
+# Deployment
+![Nano Shinonome](http://38.media.tumblr.com/47dc3c3aac48a2edeeca7868d9f62b51/tumblr_mfc33hOFad1rw1exqo1_500.gif)
+
+Coming soon
+
+# Credits 
+
+![Nano Shinonome](http://38.media.tumblr.com/tumblr_lxsvh15nuw1qd0gyko1_500.gif)
+
+Nano-chan was started by painstakingly hand-copying the lovely bot/networking tutorial created by [New Coder]. The tutorial can be found [here].
+
+![Nano Shinonome](http://33.media.tumblr.com/c7d1cd5862cc5dfc92d6db26587e2f36/tumblr_mgt4cqGg2i1rmhrczo1_500.gif)
 
 [Nano Shinonome]:http://nichijou.wikia.com/wiki/Nano_Shinonome
 [Nichijou]:https://www.youtube.com/watch?v=HQ7bC9XycU0
