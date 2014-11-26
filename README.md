@@ -76,13 +76,38 @@ trial tests
 After setting up your settings.ini file, run the following commands in the nanochan directory.
 
 ```
-twistd -n shinolabs
+twistd -n shinolab
 ```
 
 # Deployment
 ![Nano Shinonome](http://38.media.tumblr.com/47dc3c3aac48a2edeeca7868d9f62b51/tumblr_mfc33hOFad1rw1exqo1_500.gif)
 
 Coming soon
+
+# Known issues
+
+![Nano Shinonome](http://33.media.tumblr.com/0ecf2747c2ee094c7f47de2bb5f300a8/tumblr_mlsjnePcKI1qf64cio1_500.gif)
+![Hakase](http://33.media.tumblr.com/57c111c94566e74d3e9ddc91a7438dbe/tumblr_mlsjnePcKI1qf64cio2_500.gif)
+
+If you're having a problem getting 
+
+```sh
+twisted -n shinolab
+```
+
+to run, you probably have an outdated version of pyopenssl compiled into your version of Python..
+
+If you're on OSX and using homebrew, this worked for me:
+
+```sh
+brew install openssl
+brew link --overwrite --dry-run openssl 
+brew link openssl --overwrite --force
+brew uninstall python
+brew install python --with-brewed-openssl
+```
+
+From [StackOverflow].
 
 # Credits 
 
@@ -99,3 +124,4 @@ Nano-chan was started by painstakingly hand-copying the lovely bot/networking tu
 [Nichijou Wikia]:http://nichijou.wikia.com/wiki/Nano_Shinonome
 [New Coder]:http://newcoder.io/
 [here]:http://newcoder.io/~drafts/networks/
+[StackOverflow]:http://stackoverflow.com/questions/20688034/python-importerror-cannot-import-name-httpshandler
